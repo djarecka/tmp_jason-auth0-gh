@@ -15,7 +15,7 @@
   "dependencies": {
     "@reach/router": "^1.2.1",
     "auth0-js": "^9.10.1",
-    "gatsby": "^2.20.20",
+    "gatsby": "^4.25.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
